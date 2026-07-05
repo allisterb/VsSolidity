@@ -8,7 +8,7 @@ Viscous is a Visual Studio extension for developing, compiling, and deploying [S
 
 * Solidity project system for Visual Studio featuring Solidity compiler integration and NPM dependency management. Integrates with the Visual Studio **New Project…** and **Open Folder…** dialogs.
 
-* Uses the  [vscode‑solidity](https://github.com/juanfranblanco/vscode-solidity) language server.for syntax highlighting, hover information, IntelliSense, and linting. 
+* Uses Solidity language server for syntax highlighting, hover information, IntelliSense, and linting. 
 
 * Solidity compiler integration with MSBuild and the Visual Studio Build command - compile Solidity projects and individual files from the IDE with errors reported in the Error List tool window.
 
