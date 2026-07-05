@@ -2,7 +2,7 @@
 
 Viscous is a Visual Studio extension for developing, compiling, and deploying [Solidity](https://soliditylang.org/) smart contracts to EVM-compatible blockchain networks.
 
-![Blockchain Explorer](https://ajb.nyc3.cdn.digitaloceanspaces.com/viscous/docs/images/blockchain-explorer.png)
+![Blockchain Explorer](https://raw.githubusercontent.com/allisterb/Viscous/refs/heads/master/docs/screenshots/blockchain-explorer.png)
 
 ## Features
 
