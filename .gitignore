@@ -423,3 +423,4 @@ FodyWeavers.xsd
 **/dotnet-tools.json
 /src/VsSolidity.BuildTasks/Properties/launchSettings.json
 reference/*
+/docs/blog
